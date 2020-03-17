@@ -1,0 +1,52 @@
+
+-------xon-------
+symbol:XON
+open:1.7500
+high:1.9400
+low:1.5500
+price:1.5500
+volume:1250851
+latest trading day:2020-03-16
+previous close:2.0100
+change:-0.4600
+change percent:-22.8856%
+The current price of XON is: 1.5500
+
+-------msft-------
+symbol:MSFT
+open:140.0000
+high:149.3500
+low:135.0000
+price:135.4200
+volume:87399210
+latest trading day:2020-03-16
+previous close:158.8300
+change:-23.4100
+change percent:-14.7390%
+The current price of MSFT is: 135.4200
+
+-------tsla-------
+symbol:TSLA
+open:469.4997
+high:494.8699
+low:442.1700
+price:445.0700
+volume:20164697
+latest trading day:2020-03-16
+previous close:546.6200
+change:-101.5500
+change percent:-18.5778%
+The current price of TSLA is: 445.0700
+
+-------googl-------
+symbol:GOOGL
+open:1089.6100
+high:1145.4700
+low:1067.0800
+price:1073.0000
+volume:4719049
+latest trading day:2020-03-16
+previous close:1214.2700
+change:-141.2700
+change percent:-11.6342%
+The current price of GOOGL is: 1073.0000
