@@ -1,2 +1,2 @@
 Hello there
-We are testing git status
+We are testing git status"master version" 
