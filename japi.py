@@ -25,6 +25,7 @@ def getStockData(userVal):
     print("The current price of "+stockDict['symbol']+" is: "+stockDict['price']+"\n")
     f.write("The current price of "+stockDict['symbol']+" is: "+stockDict['price']+"\n")
     f.close()
+    print("Stock Quotes retrieved successfully!")
         
 while(i == 0):
     uVal = input("Please enter your stock symbol: ").lower()
